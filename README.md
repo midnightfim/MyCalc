@@ -1,2 +1,2 @@
 # MyCalc
-Main class находится в Start.java
+Main class in Start.java
